@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TaiKi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myRusty" vcs="Git" />
+  </component>
+</project>
